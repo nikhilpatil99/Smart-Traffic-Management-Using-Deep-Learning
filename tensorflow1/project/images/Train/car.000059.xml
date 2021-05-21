@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cars</folder>
+	<filename>car.000059.png</filename>
+	<path>D:\Project\model\training_set\cars\car.000059.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>452</width>
+		<height>381</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>8</ymin>
+			<xmax>435</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

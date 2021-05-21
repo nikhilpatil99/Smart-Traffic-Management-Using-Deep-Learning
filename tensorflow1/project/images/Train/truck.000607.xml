@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>truck.000607.png</filename>
+	<path>C:\Users\Sir\Desktop\Desktop\new\truck.000607.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>283</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>9</ymin>
+			<xmax>473</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

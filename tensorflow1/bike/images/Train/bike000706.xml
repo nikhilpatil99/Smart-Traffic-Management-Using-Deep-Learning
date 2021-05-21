@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bike</folder>
+	<filename>bike000706.jpg</filename>
+	<path>C:\Users\Sir\Desktop\bike\bike000706.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>394</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>27</ymin>
+			<xmax>392</xmax>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

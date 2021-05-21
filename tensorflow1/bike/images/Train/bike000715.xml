@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Greenshot</folder>
+	<filename>bike000715.jpg</filename>
+	<path>C:\Users\Sir\Desktop\Desktop\Greenshot\bike000715.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>307</width>
+		<height>221</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>15</ymin>
+			<xmax>234</xmax>
+			<ymax>194</ymax>
+		</bndbox>
+	</object>
+</annotation>

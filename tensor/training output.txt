@@ -1,0 +1,300 @@
+I0910 21:43:06.354492  4392 learning.py:507] global step 85: loss = 0.9769 (27.2
+66 sec/step)
+I0910 21:43:37.698241  4392 learning.py:507] global step 86: loss = 1.8847 (31.3
+44 sec/step)
+I0910 21:44:04.698241  4960 supervisor.py:1050] Recording summary at step 86.
+I0910 21:44:19.885742  4392 learning.py:507] global step 87: loss = 1.1648 (42.1
+88 sec/step)
+I0910 21:44:52.620116  4392 learning.py:507] global step 88: loss = 1.8947 (32.7
+34 sec/step)
+I0910 21:45:20.916991  4392 learning.py:507] global step 89: loss = 1.6340 (28.2
+97 sec/step)
+I0910 21:45:50.901366  4392 learning.py:507] global step 90: loss = 0.9416 (29.9
+53 sec/step)
+I0910 21:46:13.291991  4960 supervisor.py:1050] Recording summary at step 90.
+I0910 21:46:28.323241  4392 learning.py:507] global step 91: loss = 1.1187 (37.4
+06 sec/step)
+I0910 21:46:57.166992  4392 learning.py:507] global step 92: loss = 1.2338 (28.8
+44 sec/step)
+I0910 21:47:28.026366  4392 learning.py:507] global step 93: loss = 1.3723 (30.8
+59 sec/step)
+I0910 21:47:58.182617  4392 learning.py:507] global step 94: loss = 1.0178 (30.1
+25 sec/step)
+I0910 21:48:18.651367  4960 supervisor.py:1050] Recording summary at step 94.
+I0910 21:48:39.182617  4392 learning.py:507] global step 95: loss = 1.1468 (41.0
+00 sec/step)
+I0910 21:49:04.682617  4392 learning.py:507] global step 96: loss = 0.9767 (25.5
+00 sec/step)
+I0910 21:49:33.276367  4392 learning.py:507] global step 97: loss = 1.1813 (28.5
+94 sec/step)
+I0910 21:49:44.635742  5072 supervisor.py:1117] Saving checkpoint to path traini
+ng/model.ckpt
+I0910 21:50:14.916991  4392 learning.py:507] global step 98: loss = 1.6480 (41.5
+94 sec/step)
+I0910 21:50:15.245117  4960 supervisor.py:1050] Recording summary at step 98.
+I0910 21:50:42.979492  4392 learning.py:507] global step 99: loss = 1.0445 (28.0
+63 sec/step)
+I0910 21:51:14.682617  4392 learning.py:507] global step 100: loss = 1.3637 (31.
+703 sec/step)
+I0910 21:51:49.807616  4392 learning.py:507] global step 101: loss = 0.9837 (35.
+078 sec/step)
+I0910 21:52:11.463867  4960 supervisor.py:1050] Recording summary at step 101.
+I0910 21:52:27.307616  4392 learning.py:507] global step 102: loss = 0.9562 (37.
+500 sec/step)
+I0910 21:52:59.479492  4392 learning.py:507] global step 103: loss = 1.1376 (32.
+172 sec/step)
+I0910 21:53:34.385742  4392 learning.py:507] global step 104: loss = 0.8002 (34.
+906 sec/step)
+I0910 21:54:01.870117  4960 supervisor.py:1050] Recording summary at step 104.
+I0910 21:54:13.666992  4392 learning.py:507] global step 105: loss = 1.7233 (39.
+281 sec/step)
+I0910 21:54:47.916991  4392 learning.py:507] global step 106: loss = 0.7742 (34.
+234 sec/step)
+I0910 21:55:19.854492  4392 learning.py:507] global step 107: loss = 1.6420 (31.
+938 sec/step)
+I0910 21:55:55.057617  4392 learning.py:507] global step 108: loss = 1.5202 (35.
+188 sec/step)
+I0910 21:56:15.526366  4960 supervisor.py:1050] Recording summary at step 108.
+I0910 21:56:31.963867  4392 learning.py:507] global step 109: loss = 1.3330 (36.
+891 sec/step)
+I0910 21:57:01.307616  4392 learning.py:507] global step 110: loss = 1.4180 (29.
+344 sec/step)
+I0910 21:57:32.573242  4392 learning.py:507] global step 111: loss = 0.8124 (31.
+266 sec/step)
+I0910 21:58:02.541992  4960 supervisor.py:1050] Recording summary at step 111.
+I0910 21:58:16.604491  4392 learning.py:507] global step 112: loss = 1.6022 (44.
+031 sec/step)
+I0910 21:58:48.713866  4392 learning.py:507] global step 113: loss = 1.7323 (32.
+109 sec/step)
+I0910 21:59:22.448242  4392 learning.py:507] global step 114: loss = 1.3663 (33.
+734 sec/step)
+I0910 21:59:44.635742  5072 supervisor.py:1117] Saving checkpoint to path traini
+ng/model.ckpt
+I0910 21:59:53.323241  4392 learning.py:507] global step 115: loss = 0.7763 (28.
+828 sec/step)
+I0910 22:00:13.541992  4960 supervisor.py:1050] Recording summary at step 115.
+I0910 22:00:32.698241  4392 learning.py:507] global step 116: loss = 0.7380 (39.
+375 sec/step)
+I0910 22:01:05.666992  4392 learning.py:507] global step 117: loss = 1.3123 (32.
+969 sec/step)
+I0910 22:01:30.885742  4392 learning.py:507] global step 118: loss = 0.7261 (25.
+219 sec/step)
+I0910 22:01:59.760742  4960 supervisor.py:1050] Recording summary at step 118.
+I0910 22:02:09.979492  4392 learning.py:507] global step 119: loss = 1.1298 (39.
+094 sec/step)
+I0910 22:02:41.651367  4392 learning.py:507] global step 120: loss = 1.2503 (31.
+672 sec/step)
+I0910 22:03:09.073242  4392 learning.py:507] global step 121: loss = 0.9666 (27.
+422 sec/step)
+I0910 22:03:36.932617  4392 learning.py:507] global step 122: loss = 0.9989 (27.
+859 sec/step)
+I0910 22:04:05.370117  4960 supervisor.py:1050] Recording summary at step 122.
+I0910 22:04:18.588867  4392 learning.py:507] global step 123: loss = 1.6491 (41.
+656 sec/step)
+I0910 22:04:43.666992  4392 learning.py:507] global step 124: loss = 0.8466 (25.
+078 sec/step)
+I0910 22:05:12.963867  4392 learning.py:507] global step 125: loss = 0.6786 (29.
+297 sec/step)
+I0910 22:05:38.916991  4392 learning.py:507] global step 126: loss = 1.0014 (25.
+953 sec/step)
+I0910 22:06:07.573242  4960 supervisor.py:1050] Recording summary at step 126.
+I0910 22:06:22.838867  4392 learning.py:507] global step 127: loss = 1.4385 (43.
+922 sec/step)
+I0910 22:06:57.229492  4392 learning.py:507] global step 128: loss = 0.9354 (34.
+391 sec/step)
+I0910 22:07:31.682617  4392 learning.py:507] global step 129: loss = 1.1745 (34.
+453 sec/step)
+I0910 22:08:00.166992  4960 supervisor.py:1050] Recording summary at step 129.
+I0910 22:08:14.573242  4392 learning.py:507] global step 130: loss = 1.0927 (42.
+891 sec/step)
+I0910 22:08:46.823241  4392 learning.py:507] global step 131: loss = 1.5293 (32.
+250 sec/step)
+I0910 22:09:21.213866  4392 learning.py:507] global step 132: loss = 1.1061 (34.
+391 sec/step)
+I0910 22:09:44.635742  5072 supervisor.py:1117] Saving checkpoint to path traini
+ng/model.ckpt
+I0910 22:09:53.166992  4392 learning.py:507] global step 133: loss = 0.9186 (29.
+875 sec/step)
+I0910 22:10:13.260742  4960 supervisor.py:1050] Recording summary at step 133.
+I0910 22:10:32.823241  4392 learning.py:507] global step 134: loss = 0.9826 (39.
+375 sec/step)
+I0910 22:11:04.276367  4392 learning.py:507] global step 135: loss = 1.0243 (31.
+453 sec/step)
+I0910 22:11:33.557617  4392 learning.py:507] global step 136: loss = 0.6571 (29.
+281 sec/step)
+I0910 22:12:02.604491  4960 supervisor.py:1050] Recording summary at step 136.
+I0910 22:12:15.760742  4392 learning.py:507] global step 137: loss = 0.8932 (42.
+203 sec/step)
+I0910 22:12:45.854492  4392 learning.py:507] global step 138: loss = 1.1946 (30.
+094 sec/step)
+I0910 22:13:15.323241  4392 learning.py:507] global step 139: loss = 0.6994 (29.
+469 sec/step)
+I0910 22:13:40.823241  4392 learning.py:507] global step 140: loss = 0.6563 (25.
+500 sec/step)
+I0910 22:14:07.682617  4960 supervisor.py:1050] Recording summary at step 140.
+I0910 22:14:23.166992  4392 learning.py:507] global step 141: loss = 1.2471 (42.
+344 sec/step)
+I0910 22:14:49.057617  4392 learning.py:507] global step 142: loss = 0.8948 (25.
+891 sec/step)
+I0910 22:15:22.776367  4392 learning.py:507] global step 143: loss = 0.8627 (33.
+719 sec/step)
+I0910 22:15:54.682617  4392 learning.py:507] global step 144: loss = 1.0575 (31.
+875 sec/step)
+I0910 22:16:14.510741  4960 supervisor.py:1050] Recording summary at step 144.
+I0910 22:16:30.182617  4392 learning.py:507] global step 145: loss = 0.6013 (35.
+500 sec/step)
+I0910 22:16:58.854492  4392 learning.py:507] global step 146: loss = 1.0230 (28.
+672 sec/step)
+I0910 22:17:32.635742  4392 learning.py:507] global step 147: loss = 0.9827 (33.
+750 sec/step)
+I0910 22:17:59.573242  4960 supervisor.py:1050] Recording summary at step 147.
+I0910 22:18:08.213866  4392 learning.py:507] global step 148: loss = 0.8313 (35.
+578 sec/step)
+I0910 22:18:41.479492  4392 learning.py:507] global step 149: loss = 0.8518 (33.
+266 sec/step)
+I0910 22:19:06.260742  4392 learning.py:507] global step 150: loss = 0.6857 (24.
+781 sec/step)
+I0910 22:19:37.573242  4392 learning.py:507] global step 151: loss = 1.0136 (31.
+312 sec/step)
+I0910 22:19:44.635742  5072 supervisor.py:1117] Saving checkpoint to path traini
+ng/model.ckpt
+I0910 22:20:06.323241  4960 supervisor.py:1050] Recording summary at step 151.
+I0910 22:20:21.088867  4392 learning.py:507] global step 152: loss = 0.8393 (43.
+516 sec/step)
+I0910 22:20:46.041992  4392 learning.py:507] global step 153: loss = 0.6861 (24.
+953 sec/step)
+I0910 22:21:15.010741  4392 learning.py:507] global step 154: loss = 0.8290 (28.
+969 sec/step)
+I0910 22:21:41.104491  4392 learning.py:507] global step 155: loss = 0.8491 (26.
+094 sec/step)
+I0910 22:22:05.651367  4960 supervisor.py:1050] Recording summary at step 155.
+I0910 22:22:20.260742  4392 learning.py:507] global step 156: loss = 1.1951 (39.
+156 sec/step)
+I0910 22:22:54.620116  4392 learning.py:507] global step 157: loss = 0.7101 (34.
+359 sec/step)
+I0910 22:23:24.995116  4392 learning.py:507] global step 158: loss = 0.8426 (30.
+375 sec/step)
+I0910 22:24:04.385742  4392 learning.py:507] global step 159: loss = 0.6748 (39.
+266 sec/step)
+I0910 22:24:11.541992  4960 supervisor.py:1050] Recording summary at step 159.
+I0910 22:24:34.026366  4392 learning.py:507] global step 160: loss = 0.7640 (29.
+641 sec/step)
+I0910 22:25:05.385742  4392 learning.py:507] global step 161: loss = 0.6232 (31.
+359 sec/step)
+I0910 22:25:39.260742  4392 learning.py:507] global step 162: loss = 0.7782 (33.
+875 sec/step)
+I0910 22:26:05.354492  4960 supervisor.py:1050] Recording summary at step 162.
+I0910 22:26:16.573242  4392 learning.py:507] global step 163: loss = 0.6760 (37.
+312 sec/step)
+I0910 22:26:50.010741  4392 learning.py:507] global step 164: loss = 0.8444 (33.
+437 sec/step)
+I0910 22:27:15.213866  4392 learning.py:507] global step 165: loss = 0.6952 (25.
+203 sec/step)
+I0910 22:27:40.010741  4392 learning.py:507] global step 166: loss = 0.6114 (24.
+797 sec/step)
+I0910 22:28:05.573242  4960 supervisor.py:1050] Recording summary at step 166.
+I0910 22:28:20.776367  4392 learning.py:507] global step 167: loss = 0.6959 (40.
+766 sec/step)
+I0910 22:28:55.041992  4392 learning.py:507] global step 168: loss = 0.6735 (34.
+266 sec/step)
+I0910 22:29:22.213866  4392 learning.py:507] global step 169: loss = 0.8469 (27.
+172 sec/step)
+I0910 22:29:44.635742  5072 supervisor.py:1117] Saving checkpoint to path traini
+ng/model.ckpt
+I0910 22:29:56.401366  4392 learning.py:507] global step 170: loss = 0.7882 (34.
+156 sec/step)
+I0910 22:30:17.479492  4960 supervisor.py:1050] Recording summary at step 170.
+I0910 22:30:35.291991  4392 learning.py:507] global step 171: loss = 0.6698 (38.
+891 sec/step)
+I0910 22:31:02.354492  4392 learning.py:507] global step 172: loss = 0.4907 (27.
+063 sec/step)
+I0910 22:31:29.729492  4392 learning.py:507] global step 173: loss = 0.9072 (27.
+375 sec/step)
+I0910 22:32:02.510741  4960 supervisor.py:1050] Recording summary at step 173.
+I0910 22:32:15.607421  4392 learning.py:507] global step 174: loss = 0.8329 (45.
+877 sec/step)
+I0910 22:32:53.591796  4392 learning.py:507] global step 175: loss = 0.5000 (37.
+983 sec/step)
+I0910 22:34:28.522460  4960 supervisor.py:1050] Recording summary at step 175.
+I0910 22:34:49.008789  4392 learning.py:507] global step 176: loss = 0.7427 (115
+.415 sec/step)
+I0910 22:35:36.819335  4392 learning.py:507] global step 177: loss = 0.6331 (47.
+810 sec/step)
+I0910 22:36:31.106445  4960 supervisor.py:1050] Recording summary at step 177.
+I0910 22:36:57.592773  4392 learning.py:507] global step 178: loss = 0.7493 (80.
+771 sec/step)
+I0910 22:37:56.092773  4392 learning.py:507] global step 179: loss = 0.7172 (58.
+497 sec/step)
+I0910 22:38:31.779296  4960 supervisor.py:1050] Recording summary at step 179.
+I0910 22:39:08.788085  4392 learning.py:507] global step 180: loss = 0.6575 (72.
+692 sec/step)
+I0910 22:39:44.625976  5072 supervisor.py:1117] Saving checkpoint to path traini
+ng/model.ckpt
+I0910 22:43:45.633788  4960 supervisor.py:1050] Recording summary at step 180.
+I0910 22:45:52.875000  4960 supervisor.py:1050] Recording summary at step 180.
+I0910 22:46:20.924804  4392 learning.py:507] global step 181: loss = 0.5075 (431
+.483 sec/step)
+I0910 22:46:52.780273  4960 supervisor.py:1050] Recording summary at step 181.
+I0910 22:49:45.138671  5072 supervisor.py:1117] Saving checkpoint to path traini
+ng/model.ckpt
+I0910 22:50:09.263671  4960 supervisor.py:1050] Recording summary at step 181.
+I0910 22:51:22.192382  4392 learning.py:507] global step 182: loss = 0.6969 (294
+.440 sec/step)
+I0910 22:52:04.153320  4960 supervisor.py:1050] Recording summary at step 182.
+I0910 22:55:40.405273  4960 supervisor.py:1050] Recording summary at step 182.
+I0910 22:57:17.872070  4960 supervisor.py:1050] Recording summary at step 182.
+I0910 22:57:44.288085  4960 supervisor.py:1050] Recording summary at step 182.
+I0910 22:57:51.663085  4392 learning.py:507] global step 183: loss = 0.6563 (386
+.493 sec/step)
+I0910 22:58:18.819335  4960 supervisor.py:1050] Recording summary at step 183.
+I0910 22:59:09.600585  4960 supervisor.py:1050] Recording summary at step 183.
+I0910 22:59:18.163085  4392 learning.py:507] global step 184: loss = 0.6969 (86.
+078 sec/step)
+I0910 22:59:44.803710  5072 supervisor.py:1117] Saving checkpoint to path traini
+ng/model.ckpt
+I0910 22:59:53.600585  4392 learning.py:507] global step 185: loss = 0.6395 (35.
+297 sec/step)
+I0910 23:00:06.741210  4960 supervisor.py:1050] Recording summary at step 185.
+I0910 23:00:40.178710  4392 learning.py:507] global step 186: loss = 0.8202 (46.
+141 sec/step)
+I0910 23:01:18.381835  4392 learning.py:507] global step 187: loss = 0.6054 (38.
+141 sec/step)
+I0910 23:01:52.334960  4392 learning.py:507] global step 188: loss = 0.5644 (33.
+844 sec/step)
+I0910 23:02:06.819335  4960 supervisor.py:1050] Recording summary at step 188.
+I0910 23:02:30.053710  4392 learning.py:507] global step 189: loss = 0.9084 (37.
+641 sec/step)
+I0910 23:03:02.959960  4392 learning.py:507] global step 190: loss = 0.8117 (32.
+906 sec/step)
+I0910 23:03:37.756835  4392 learning.py:507] global step 191: loss = 0.9514 (34.
+797 sec/step)
+I0910 23:04:03.522460  4960 supervisor.py:1050] Recording summary at step 191.
+I0910 23:04:16.444335  4392 learning.py:507] global step 192: loss = 0.5362 (38.
+688 sec/step)
+I0910 23:04:45.381835  4392 learning.py:507] global step 193: loss = 0.7066 (28.
+922 sec/step)
+I0910 23:05:16.553710  4392 learning.py:507] global step 194: loss = 0.6531 (31.
+172 sec/step)
+I0910 23:05:50.381835  4392 learning.py:507] global step 195: loss = 0.4989 (33.
+688 sec/step)
+I0910 23:06:12.319335  4960 supervisor.py:1050] Recording summary at step 195.
+I0910 23:06:31.022460  4392 learning.py:507] global step 196: loss = 0.7281 (40.
+578 sec/step)
+I0910 23:07:03.178710  4392 learning.py:507] global step 197: loss = 1.0631 (32.
+156 sec/step)
+I0910 23:07:36.038085  4392 learning.py:507] global step 198: loss = 0.6188 (32.
+859 sec/step)
+I0910 23:08:07.256835  4960 supervisor.py:1050] Recording summary at step 198.
+I0910 23:08:22.084960  4392 learning.py:507] global step 199: loss = 0.6924 (46.
+047 sec/step)
+I0910 23:08:50.381835  4392 learning.py:507] global step 200: loss = 0.4504 (28.
+297 sec/step)
+I0910 23:08:50.397460  4392 learning.py:777] Stopping Training.
+I0910 23:08:50.491210  4392 learning.py:785] Finished training! Saving model to
+disk.
+C:\Users\Sir\Anaconda3\lib\site-packages\tensorflow\python\summary\writer\writer
+.py:386: UserWarning: Attempting to use a closed FileWriter. The operation will
+be a noop unless the FileWriter is explicitly reopened.
+  warnings.warn("Attempting to use a closed FileWriter. "
+
+(base) C:\tensorflow1\project>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trucks</folder>
+	<filename>trucks.000390.png</filename>
+	<path>D:\Project\model\training_set\trucks\trucks.000390.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>92</width>
+		<height>129</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>8</ymin>
+			<xmax>92</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>
